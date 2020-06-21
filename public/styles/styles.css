@@ -1,0 +1,21 @@
+
+body {
+  color:#000000;
+  background-color:lightsteelblue;
+  background-image:url('Background Image');
+  background-repeat:no-repeat;
+}
+
+/* h1{
+margin-top: 2in;
+position: relative;
+left: 5.5in;
+} */
+
+canvas {
+ border: 3px solid black;
+ background-color: beige;
+ /* position: relative;
+ left: 5in;  */
+  }
+  
